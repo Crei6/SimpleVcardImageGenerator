@@ -1,10 +1,11 @@
 # VcardQRCodeGenerator
 ## What is it?
 Mit dem simplen Tool, kann man einen QR-Code generieren lassen, welcher beim Scan deine von dir angegeben Daten als Kontakt auf dem scannenden Gerät zum sofort abspeichern anzeigt. Die Daten die diese sogenannte "vCard" (-Visitenkarte) in dem QR-Code speichert beinhaltet folgende:
-Vorname
-Nachname
-Telefonnummer 
-Email
+Vorname, 
+Nachname, 
+Telefonnummer, 
+Email.
+Hochgeladen damit man kostenlos ganz einfach ohne Abo sich diese vCard erstellen kann.
 
 
 ## How to install
